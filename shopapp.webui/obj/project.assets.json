@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\mvc\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
+      "projectUniqueName": "C:\\MVC\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj",
       "projectName": "shopapp.webui",
-      "projectPath": "C:\\mvc\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
+      "projectPath": "C:\\MVC\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj",
       "packagesPath": "C:\\Users\\ebabaoglu\\.nuget\\packages\\",
-      "outputPath": "C:\\mvc\\shopapp\\shopapp.webui\\obj\\",
+      "outputPath": "C:\\MVC\\ShopAppMVC\\shopapp.webui\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,41 @@
+@model shopapp.webui.ViewModels.ProductViewModel
+@{
+    var products = Model.Products;
+    var popularClass= products.Count>2 ? "popular": "";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product</title>
+</head>
+<style>
+    .popular{
+        color: red
+    }
+</style>
+<body>
+    <h1 class="@popularClass">@Model.Category.Name</h1>
+    <div>
+       <ul> 
+           @foreach (var product in products)
+            {   
+                @if(product.IsApproved==true){
+                    <li>
+                        <p>@product.Name</p>
+                        <p>@product.Price</p>
+                        <p>@product.Description</p>
+                    </li>
+                }
+                else
+                {
+                    <li style="background-color: red;">Ürün Satışta değil.</li>
+                }
+            }
+        </ul>
+    </div>
+</body>
+</html>

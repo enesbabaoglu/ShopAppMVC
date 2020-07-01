@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MVC\\shopapp\\shopapp.webui\\shopapp.webui.csproj": {}
+    "C:\\MVC\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj": {}
   },
   "projects": {
-    "C:\\MVC\\shopapp\\shopapp.webui\\shopapp.webui.csproj": {
+    "C:\\MVC\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MVC\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
+        "projectUniqueName": "C:\\MVC\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj",
         "projectName": "shopapp.webui",
-        "projectPath": "C:\\MVC\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
+        "projectPath": "C:\\MVC\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj",
         "packagesPath": "C:\\Users\\ebabaoglu\\.nuget\\packages\\",
-        "outputPath": "C:\\MVC\\shopapp\\shopapp.webui\\obj\\",
+        "outputPath": "C:\\MVC\\ShopAppMVC\\shopapp.webui\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
