@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/modules/bootstrap/dist/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+
+    @if(IsSectionDefined("MessageBox"))
+    {
+        @RenderSection("MessageBox")
+    }
+    else
+    {
+      <div class="alert alert-success text-center m-0">
+        Welcome!
+      </div>
+    }
+     @await Html.PartialAsync("_navbar")
+      <partial name ="_header">
+<main class="margin-bottom-3">
+    <div class="container">
+        @if(IsSectionDefined("Categories")){
+            <div class="row">
+                <div class="col-md-2">
+                    @RenderSection("Categories",false)
+                </div>
+                <div class="col-md-10">
+                    @RenderBody()
+                </div>
+
+            </div>
+        }
+        else
+        {
+            <div class="row">
+                <div class="col-md-12">
+                    @RenderBody()
+                </div>
+            </div>
+        }
+    </div>
+</main>
+<footer class="py-5 bg-dark text-white text-center">
+    Shop App || 2020
+</footer>
+</body>
+</html>

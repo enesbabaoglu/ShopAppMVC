@@ -52,7 +52,6 @@ C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.c
 C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cs
 C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
 C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
-C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\About.cshtml.g.cs
 C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
 C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
 C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
@@ -63,3 +62,8 @@ C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navb
 C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
 C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_products.cshtml.g.cs
 C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_layout.cshtml.g.cs
+C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\MVC\ShopAppMVC\shopapp.webui\bin\Debug\netcoreapp3.1\package-lock.json
+C:\MVC\ShopAppMVC\shopapp.webui\bin\Debug\netcoreapp3.1\package.json
