@@ -20521,6 +20521,11 @@
   "RootNamespace": "shopapp.webui",
   "Documents": [
     {
+      "FilePath": "c:\\MVC\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_navbar.cshtml",
+      "TargetPath": "Views\\Shared\\_navbar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\MVC\\ShopAppMVC\\shopapp.webui\\Views\\Product\\About.cshtml",
       "TargetPath": "Views\\Product\\About.cshtml",
       "FileKind": "mvc"
@@ -20546,6 +20551,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\MVC\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_noproduct.cshtml",
+      "TargetPath": "Views\\Shared\\_noproduct.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\MVC\\ShopAppMVC\\shopapp.webui\\Views\\Product\\Index.cshtml",
       "TargetPath": "Views\\Product\\Index.cshtml",
       "FileKind": "mvc"
@@ -20553,6 +20563,21 @@
     {
       "FilePath": "c:\\MVC\\ShopAppMVC\\shopapp.webui\\Views\\Home\\About.cshtml",
       "TargetPath": "Views\\Home\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\MVC\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_categories.cshtml",
+      "TargetPath": "Views\\Shared\\_categories.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\MVC\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_header.cshtml",
+      "TargetPath": "Views\\Shared\\_header.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\MVC\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_products.cshtml",
+      "TargetPath": "Views\\Shared\\_products.cshtml",
       "FileKind": "mvc"
     },
     {

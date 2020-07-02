@@ -58,3 +58,8 @@ C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Inde
 C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
 C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_products.cshtml.g.cs
+C:\MVC\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs

@@ -18,16 +18,23 @@ namespace shopapp.webui.Controllers
         public IActionResult List(){
             var products = new List<Product>(){
                 new Product{Name = "iPhone 8" , Price= 7000 , Description= "çok iyi telefon",IsApproved=true},
-                new Product{Name = "iPhone X" , Price= 9000 , Description= " iyi telefon",IsApproved=false},
-                new Product{Name = "iPhone X" , Price= 9000 , Description= " iyi telefon",IsApproved=true},
-                new Product{Name = "iPhone X" , Price= 9000 , Description= " iyi telefon"},
-                new Product{Name = "iPhone X" , Price= 9000 , Description= " iyi telefon",IsApproved=true}
+                new Product{Name = "iPhone 9" , Price= 9000 , Description= " iyi telefon",IsApproved=false},
+                new Product{Name = "iPhone X" , Price= 10000 , Description= " Telefon",IsApproved=true},
+                new Product{Name = "iPhone XR" , Price= 11000 , Description= " Güzel telefon"},
             };
-            var category = new Category{Name="Telefonlar", Description="Telefon Kategorisi"};
+
+            var categories =new List<Category>(){
+                new Category {Name="Telefonlar", Description="Telefon Kategorisi"},
+                new Category {Name="Bilgisayarlar", Description="Bilgisayar Kategorisi"},
+                new Category {Name="Elektronik", Description="Elektronik Kategorisi"}
+
+            };
             
-            var productViewModel= new ProductViewModel{Category=category,Products=products};
             
-            
+            var productViewModel= new ProductViewModel{
+                Categories=categories,
+                Products=products
+            };         
             return View(productViewModel);
         }
         public IActionResult Details(){
