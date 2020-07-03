@@ -1,2 +1,2 @@
 # ShopAppMVC
-First MVC project
+First .NET CORE MVC project
