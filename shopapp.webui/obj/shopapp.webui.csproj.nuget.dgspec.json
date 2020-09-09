@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MVC\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj": {}
+    "C:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj": {}
   },
   "projects": {
-    "C:\\MVC\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj": {
+    "C:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MVC\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj",
+        "projectUniqueName": "C:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj",
         "projectName": "shopapp.webui",
-        "projectPath": "C:\\MVC\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj",
+        "projectPath": "C:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj",
         "packagesPath": "C:\\Users\\ebabaoglu\\.nuget\\packages\\",
-        "outputPath": "C:\\MVC\\ShopAppMVC\\shopapp.webui\\obj\\",
+        "outputPath": "C:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\ebabaoglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -59,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
