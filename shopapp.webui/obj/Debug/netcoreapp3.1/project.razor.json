@@ -14449,6 +14449,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Product\\Create.cshtml",
+      "TargetPath": "Views\\Product\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_products.cshtml",
       "TargetPath": "Views\\Shared\\_products.cshtml",
       "FileKind": "mvc"
@@ -14461,6 +14466,11 @@
     {
       "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\Components\\Categories\\Default.cshtml",
       "TargetPath": "Views\\Shared\\Components\\Categories\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Product\\Edit.cshtml",
+      "TargetPath": "Views\\Product\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -115,3 +115,5 @@ C:\Users\ebabaoglu\Repositories\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1
 C:\Users\ebabaoglu\Repositories\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
 C:\Users\ebabaoglu\Repositories\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.genruntimeconfig.cache
 C:\Users\ebabaoglu\Repositories\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
+C:\Users\ebabaoglu\Repositories\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\ebabaoglu\Repositories\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
