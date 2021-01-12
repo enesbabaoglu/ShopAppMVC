@@ -8,27 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ebabaoglu\\.nuget\\packages\\": {}
+    "C:\\Users\\Enes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj",
+      "projectUniqueName": "C:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj",
       "projectName": "shopapp.webui",
-      "projectPath": "C:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj",
-      "packagesPath": "C:\\Users\\ebabaoglu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\obj\\",
+      "projectPath": "C:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj",
+      "packagesPath": "C:\\Users\\Enes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ebabaoglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Enes\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://37.130.113.226:8081/repository/overtech": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

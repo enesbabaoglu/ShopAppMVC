@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj",
+  "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\shopapp.webui.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14409,88 +14409,88 @@
   "RootNamespace": "shopapp.webui",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Product\\Details.cshtml",
-      "TargetPath": "Views\\Product\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_header.cshtml",
-      "TargetPath": "Views\\Shared\\_header.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_navbar.cshtml",
-      "TargetPath": "Views\\Shared\\_navbar.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Home\\MyView.cshtml",
-      "TargetPath": "Views\\Home\\MyView.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_layout.cshtml",
-      "TargetPath": "Views\\Shared\\_layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Product\\Index.cshtml",
-      "TargetPath": "Views\\Product\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Product\\Create.cshtml",
-      "TargetPath": "Views\\Product\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_products.cshtml",
-      "TargetPath": "Views\\Shared\\_products.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_categories.cshtml",
-      "TargetPath": "Views\\Shared\\_categories.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\Components\\Categories\\Default.cshtml",
-      "TargetPath": "Views\\Shared\\Components\\Categories\\Default.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Product\\Edit.cshtml",
-      "TargetPath": "Views\\Product\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Product\\List.cshtml",
-      "TargetPath": "Views\\Product\\List.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Home\\About.cshtml",
-      "TargetPath": "Views\\Home\\About.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\ebabaoglu\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_noproduct.cshtml",
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_header.cshtml",
+      "TargetPath": "Views\\Shared\\_header.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_products.cshtml",
+      "TargetPath": "Views\\Shared\\_products.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\Categories\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Home\\MyView.cshtml",
+      "TargetPath": "Views\\Home\\MyView.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Product\\Index.cshtml",
+      "TargetPath": "Views\\Product\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Product\\Edit.cshtml",
+      "TargetPath": "Views\\Product\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_noproduct.cshtml",
       "TargetPath": "Views\\Shared\\_noproduct.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_categories.cshtml",
+      "TargetPath": "Views\\Shared\\_categories.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Home\\About.cshtml",
+      "TargetPath": "Views\\Home\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_layout.cshtml",
+      "TargetPath": "Views\\Shared\\_layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Product\\Create.cshtml",
+      "TargetPath": "Views\\Product\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Shared\\_navbar.cshtml",
+      "TargetPath": "Views\\Shared\\_navbar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Product\\Details.cshtml",
+      "TargetPath": "Views\\Product\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.webui\\Views\\Product\\List.cshtml",
+      "TargetPath": "Views\\Product\\List.cshtml",
       "FileKind": "mvc"
     }
   ],
