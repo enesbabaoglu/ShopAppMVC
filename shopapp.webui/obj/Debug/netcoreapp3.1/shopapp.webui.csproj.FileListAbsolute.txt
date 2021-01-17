@@ -167,3 +167,4 @@ C:\Users\Enes\Desktop\Repositories\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp
 C:\Users\Enes\Desktop\Repositories\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
 C:\Users\Enes\Desktop\Repositories\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.genruntimeconfig.cache
 C:\Users\Enes\Desktop\Repositories\ShopAppMVC\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
+C:\Users\Enes\Desktop\Repositories\ShopAppMVC\shopapp.webui\bin\Debug\netcoreapp3.1\web.config
