@@ -18,9 +18,12 @@ namespace shopapp.webui
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
+            
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseStartup<Startup>();
+                    webBuilder.UseStartup<Startup>()
+                     .CaptureStartupErrors(true)
+                     .UseSetting("detailedErrors", "true");
                 });
     }
 }

@@ -12,5 +12,10 @@ namespace shopapp.data.Concrete.EFCore
         {
             optionsBuilder.UseSqlServer("Data Source=DESKTOP-AJT2GI5; Initial Catalog=ShopApp;Integrated Security=SSPI;");
         }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<ProductCategory>()
+                        .HasKey(c => new { c.CategoryId, c.ProductId });
+        }
     }
 }

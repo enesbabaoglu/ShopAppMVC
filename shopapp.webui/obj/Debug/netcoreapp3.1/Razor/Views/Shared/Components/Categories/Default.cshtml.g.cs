@@ -14,13 +14,13 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 #line 2 "C:\Users\Enes\Desktop\Repositories\ShopAppMVC\shopapp.webui\Views\_ViewImports.cshtml"
-using shopapp.webui.Models;
+using shopapp.entity;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6cb1b16a5647617bb73ac018927a190a69b2fa7c", @"/Views/Shared/Components/Categories/Default.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c2ebff2e65c484ec517cd3dadfa337fb1a147adf", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"dc7bddd2e1a1931a15cbbfab6fb580f231381802", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Components_Categories_Default : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<List<Category>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-controller", "Product", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -59,7 +59,7 @@ using shopapp.webui.Models;
 #line hidden
 #nullable disable
             WriteLiteral("        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6cb1b16a5647617bb73ac018927a190a69b2fa7c4049", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6cb1b16a5647617bb73ac018927a190a69b2fa7c4043", async() => {
 #nullable restore
 #line 10 "C:\Users\Enes\Desktop\Repositories\ShopAppMVC\shopapp.webui\Views\Shared\Components\Categories\Default.cshtml"
                                                                                                                             Write(category.Name);
