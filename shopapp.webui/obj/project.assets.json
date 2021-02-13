@@ -1484,6 +1484,20 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "shopapp.business/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "shopapp.data": "1.0.0",
+          "shopapp.entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/shopapp.business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/shopapp.business.dll": {}
+        }
+      },
       "shopapp.data/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -5700,6 +5714,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "shopapp.business/1.0.0": {
+      "type": "project",
+      "path": "../shopapp.business/shopapp.business.csproj",
+      "msbuildProject": "../shopapp.business/shopapp.business.csproj"
+    },
     "shopapp.data/1.0.0": {
       "type": "project",
       "path": "../shopapp.data/shopapp.data.csproj",
@@ -5715,7 +5734,9 @@
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.EntityFrameworkCore.Design >= 3.1.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.8",
-      "shopapp.data >= 1.0.0"
+      "shopapp.business >= 1.0.0",
+      "shopapp.data >= 1.0.0",
+      "shopapp.entity >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5742,8 +5763,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.business\\shopapp.business.csproj": {
+              "projectPath": "C:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.business\\shopapp.business.csproj"
+            },
             "C:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.data\\shopapp.data.csproj": {
               "projectPath": "C:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.data\\shopapp.data.csproj"
+            },
+            "C:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.entity\\shopapp.entity.csproj": {
+              "projectPath": "C:\\Users\\Enes\\Desktop\\Repositories\\ShopAppMVC\\shopapp.entity\\shopapp.entity.csproj"
             }
           }
         }

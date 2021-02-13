@@ -3,21 +3,23 @@ using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using shopapp.webui.ViewModels;
 using shopapp.data.Abstract;
+using shopapp.business.Abstract;
 
 namespace shopapp.webui.Controllers
 {
     //localhost:5000/home
     public class HomeController: Controller
     {
-        private IProductRepository _productRepository ;
+        private IProductService _productService;
 
-        public HomeController(IProductRepository productRepository)
+        public HomeController(IProductService productService)
         {
-            this._productRepository=productRepository;
+            _productService=productService;
         }
         public IActionResult Index(){
-            var productViewModel= new ProductViewModel{
-                Products=_productRepository.GetAll()
+            var productViewModel= new ProductViewModel
+            {
+                Products=_productService.GetAll()
             };         
             return View(productViewModel);
         }
