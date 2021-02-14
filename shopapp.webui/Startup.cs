@@ -41,6 +41,7 @@ namespace shopapp.webui
             });
             if (env.IsDevelopment())
             {
+                SeedDatabase.Seed();
                 app.UseDeveloperExceptionPage();
             }
 
