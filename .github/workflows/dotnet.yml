@@ -30,7 +30,7 @@ jobs:
       uses: actions/upload-artifact@v1
       with:
         name: nuget
-        path: ${{ github.workspace }}/bin/Debug/netcoreapp3.1/publish/
+        path: /home/runner/work/ShopAppMVC/ShopAppMVC/shopapp.webui/bin/Release/netcoreapp3.1/
     - name: Download a single artifact
       uses: actions/download-artifact@v2
       with:
