@@ -29,7 +29,7 @@ jobs:
     - name: 'Upload Artifact'
       uses: actions/upload-artifact@v1
       with:
-        name: nuget
+        name: my-artifact
         path: /home/runner/work/ShopAppMVC/ShopAppMVC/shopapp.webui/bin/Release/netcoreapp3.1/
     - name: Download a single artifact
       uses: actions/download-artifact@v2
