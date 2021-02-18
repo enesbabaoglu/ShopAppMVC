@@ -30,7 +30,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
        name: my-artifact
-       path: ./shopapp.webui/bin/Debug/netcoreapp3.1/publish/
+       path: /home/shopapp.webui/bin/Debug/netcoreapp3.1/publish/
     - name: Download a single artifact
       uses: actions/download-artifact@v2
       with:
